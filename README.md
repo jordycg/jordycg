@@ -7,7 +7,10 @@ I'm passionate about making a positive impact and always eager to learn new thin
 ### Fun fact:  
 I'm very passionate about running 🏃‍♂️, exercise 💪, and the outdoors 🌲🌞.
 
-[![Jordycg's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordycg)](https://github.com/jordycg/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
 <!--
 **jordycg/jordycg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
