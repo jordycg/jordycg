@@ -2,10 +2,23 @@
 
 I'm a current student and aspiring developer at [Western Governors University](https://www.wgu.edu/), pursuing my second bachelor's in Software Engineering. My first degree is a B.S. in Exercise Science, and I've discovered how both health and technology play a vital role in our wellbeing.
 
-I'm passionate about making a positive impact and always eager to learn new things. Currently, I'm working on enhancing my front-end development skills and building projects that reflect my passion (as told below)
+I'm passionate about making a positive impact and always eager to learn new things. Currently, I'm working on enhancing my front-end development skills and building projects that reflect my passions
+
+## Skills
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
 
 ### Fun fact:  
 I'm very passionate about running 🏃‍♂️, exercise 💪, and the outdoors 🌲🌞.
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordycg&layout=compact)
 
