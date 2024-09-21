@@ -13,13 +13,6 @@ I'm passionate about making a positive impact and always eager to learn new thin
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-
-
-### Fun fact:  
-I'm very passionate about running 🏃‍♂️, exercise 💪, and the outdoors 🌲🌞.
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordycg&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jordycg)](https://git.io/streak-stats)
