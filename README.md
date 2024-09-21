@@ -7,7 +7,7 @@ I'm passionate about making a positive impact and always eager to learn new thin
 ### Fun fact:  
 I'm very passionate about running 🏃‍♂️, exercise 💪, and the outdoors 🌲🌞.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordycg&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
