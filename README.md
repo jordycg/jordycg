@@ -9,7 +9,7 @@ I'm very passionate about running 🏃‍♂️, exercise 💪, and the outdoors
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordycg&layout=compact)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jordycg)](https://git.io/streak-stats)
 
 
 <!--
