@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a current student / aspiring developer at Western Governers University pursuing a second bachelor's in Software Engineering. My first degree is a B.S. in Exercise Science and I've learned how both health and tech play a role in the upkeep of our wellbeing.
+
+I'm passionate about making a change and learning new things.
+
 <!--
 **jordycg/jordycg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
