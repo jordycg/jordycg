@@ -2,7 +2,7 @@
 
 I'm a current student and aspiring developer at [Western Governors University](https://www.wgu.edu/), pursuing my second bachelor's in Software Engineering. My first degree is a B.S. in Exercise Science, and I've discovered how both health and technology play a vital role in our wellbeing.
 
-I'm passionate about making a positive impact and always eager to learn new things. Currently, I'm working on enhancing my front-end development skills and building projects that reflect my passions
+I'm passionate about making a positive impact and always eager to learn new things. Currently, I'm working on enhancing my front-end development skills and building projects that reflect my passions (running 🏃‍♂️, exercise 💪, music 🎹, games 👾, photography 📷, and the outdoors 🌲🌞)
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
