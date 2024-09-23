@@ -4,6 +4,8 @@ I'm a current student and aspiring developer at [Western Governors University](h
 
 I'm passionate about making a positive impact and always eager to learn new things. Currently, I'm working on enhancing my front-end development skills and building projects that reflect my passions.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordycg&layout=compact)
+
 ### Hobbies & Passions:
 - Running 🏃‍♂️
 - Exercise 💪
