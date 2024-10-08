@@ -12,7 +12,6 @@ I'm passionate about making a positive impact and always eager to learn new thin
 - Outdoor Adventures 🌲🌞
 - Music 🎹
 - Photography 📷
-- Games 👾
 
 
 ## Development Skills
